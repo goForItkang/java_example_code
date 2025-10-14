@@ -9,3 +9,5 @@ OOP 개념
 - setter/getter
 - 인터페이스
 - 추상 클래스 vs 일반 클래스
+## 2025/10/14
+- static final 저장위치 예제 정리
